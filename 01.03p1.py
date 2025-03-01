@@ -1,0 +1,2 @@
+'погода'.startswith('по')
+import()
